@@ -1,0 +1,62 @@
+[
+    {
+        "SerialNumber ":1,
+        "Name": "Raj",
+        "AccountNumber": "835624961518",
+        "Balance": "40000"
+    },
+    {
+        "SerialNumber ":2,
+        "Name": "Srishty",
+        "AccountNumber": "836245963275",
+        "Balance": "32658"
+    },
+    {
+        "SerialNumber ":3,
+        "Name": "Harshat",
+        "AccountNumber": "869624961518",
+        "Balance": "42000"
+    },
+    {
+        "SerialNumber ":4,
+        "Name": "Madhu",
+        "AccountNumber": "835438961518",
+        "Balance": "100000"
+    },
+    {
+        "SerialNumber ":5,
+        "Name": "Pooja",
+        "AccountNumber": "835624215818",
+        "Balance": "37000"
+    },
+    {
+        "SerialNumber ":6,
+        "Name": "Dev",
+        "AccountNumber": "835364961518",
+        "Balance": "13000"
+    },
+    {
+        "SerialNumber ":7,
+        "Name": "Ankit",
+        "AccountNumber": "835624961258",
+        "Balance": "25000"
+    },
+    {
+        "SerialNumber ":8,
+        "Name": "Rihan",
+        "AccountNumber": "835620365518",
+        "Balance": "80000"
+    },
+    {
+        "SerialNumber ":9,
+        "Name": "Sumit",
+        "AccountNumber": "835621256938",
+        "Balance": "200000"
+    },
+    {
+        "SerialNumber ":10,
+        "Name": "Sara",
+        "AccountNumber": "837824961518",
+        "Balance": "2000"
+    }
+]
